@@ -34,11 +34,44 @@ The dashboard includes:
 - Remote work preferences  
 - Top 15 countries by average salary (Python developers)  
 - Programming language popularity  
-- Database technology popularity  
+- Database technology popularity
+
+## 📊 Survey Results Summary
+1. Number of respondents who participated in the survey:
+65,437
+
+2. Number of respondents who answered all survey questions (from schema):
+58,090
+
+3. Measures of central tendency for work experience (WorkExp):
+
+    Mean: 11.47 years
+    Median: 3.0 years
+    Mode: 9.0 years
+
+4. Number of respondents working remotely:
+20,831
+
+5. Percentage of respondents who use Python:
+47.06%
+
+6. Number of respondents who learned programming through online courses:
+30,795
+
+7. Average and median compensation (ConvertedCompYearly) for Python developers by country:
+(Available in the dashboard: Top 15 Countries by Average Developer Salary)
+
+8. Education levels of the top 5 earners:
+
+    Bachelor’s degree (B.A., B.S., B.Eng., etc.)
+    Master’s degree (M.A., M.S., M.Eng., etc.)
+    Doctoral degree (Ph.D., Ed.D., etc.)
+
 
 ## 📂 Project Files
 
-- `HW4.Block4.ipynb`: Notebook with full analysis in Python  
+- `HW4.Block4_1.ipynb`: Notebook with analysis1 in Python
+- `HW4.Block4.ipynb`: Notebook with full analysis in Python
 - `language_popularity.csv`, `db_popularity.csv`, `df_cleaned_1_fixed.csv`: Cleaned datasets for visualization  
 - `README.md`: Project overview  
 - Visuals and Tableau exports  
